@@ -1,0 +1,5 @@
+- 👀 **I’m interested in**: Computer Engineering, Data Science, Cybersecurity, Embedded Systems, and Open-Source Projects.  
+- 🌱 **I’m currently learning**: Electrical Engineering and Computer Science
+- 💞️ **I’m looking to collaborate on**: Innovative projects involving IoT, machine learning, data analysis, and software development.  
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/owen-poh/)  
+- 😄 **Pronouns**: He/Him  
